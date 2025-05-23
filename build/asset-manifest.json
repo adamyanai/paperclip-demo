@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paperclip-demo/static/css/main.3e0802b8.css",
+    "main.js": "/paperclip-demo/static/js/main.a72bc6d1.js",
+    "index.html": "/paperclip-demo/index.html",
+    "main.3e0802b8.css.map": "/paperclip-demo/static/css/main.3e0802b8.css.map",
+    "main.a72bc6d1.js.map": "/paperclip-demo/static/js/main.a72bc6d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0802b8.css",
+    "static/js/main.a72bc6d1.js"
+  ]
+}
