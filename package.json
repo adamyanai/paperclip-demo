@@ -2,7 +2,7 @@
     "name": "paperclip-draft",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://adamyanai.github.io/paperclip-demo",
+    "homepage": "https://adamyanai.github.io/paperclip-demo/",
     "dependencies": {
         "lucide-react": "^0.378.0",
         "react": "^18.2.0",
